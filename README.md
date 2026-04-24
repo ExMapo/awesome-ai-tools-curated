@@ -155,6 +155,7 @@ While other directories dump 26,849+ AI tools on you, we focus on **quality cura
 | **Research Rabbit** | AI-powered research discovery platform | Research Discovery | [researchrabbit.ai](https://researchrabbit.ai) |
 | **Scholarcy** | AI research paper summarization tool | Paper Analysis | [scholarcy.com](https://scholarcy.com) |
 | **Connected Papers** | Visual tool for academic paper exploration | Paper Discovery | [connectedpapers.com](https://connectedpapers.com) |
+| **MindMap AI** | AI-powered tool for structuring research, organizing ideas, and converting documents into visual mind maps for analysis and knowledge synthesis. | Research Tools | [mindmapai.app](https://mindmapai.app/research-to-mindmap)
 
 **[🔬 Access research and analysis tools →](https://thebesttools.ai/ai-research-analysis)**
 
